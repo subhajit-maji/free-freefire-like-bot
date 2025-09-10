@@ -1,5 +1,10 @@
 # 🔍 Free Fire Like Bot
 
+[![Stars](https://img.shields.io/github/stars/subhajit-maji/free-freefire-like-bot?style=flat-square)](https://github.com/subhajit-maji/free-freefire-like-bot/stargazers)
+[![Forks](https://img.shields.io/github/forks/subhajit-maji/free-freefire-like-bot?style=flat-square)](https://github.com/subhajit-maji/free-freefire-like-bot/network/members)
+[![Issues](https://img.shields.io/github/issues/subhajit-maji/free-freefire-like-bot?style=flat-square)](https://github.com/subhajit-maji/free-freefire-like-bot/issues)
+[![License](https://img.shields.io/github/license/subhajit-maji/free-freefire-like-bot?style=flat-square)](https://github.com/subhajit-maji/free-freefire-like-bot/blob/main/LICENSE)
+
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 A Discord bot and Flask server that allows you to automatically like Free Fire profiles via their user ID.  
